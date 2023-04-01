@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890485357654",
+    "project_id": "orderchatapp-45ed5",
+    "storage_bucket": "orderchatapp-45ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890485357654:android:1b24abd1b4911a429dcff7",
+        "android_client_info": {
+          "package_name": "com.example.orders_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890485357654-mfvffb5o9iue0qd6ic7hicujanfq4jvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orders_chat_app",
+            "certificate_hash": "5965242928d5cab18303ff588c241b654b08638f"
+          }
+        },
+        {
+          "client_id": "890485357654-ffnufopn27d0n2majol4ls1sdkk57obg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzfcK0SHCq9sU2RLbYp3ZE_asBQi_v33A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890485357654-ffnufopn27d0n2majol4ls1sdkk57obg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
