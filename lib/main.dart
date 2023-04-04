@@ -14,7 +14,7 @@ void main() async {
 
 
   runApp(const MyApp());
-  
+
 }
 
 class MyApp extends StatelessWidget {
@@ -34,8 +34,3 @@ class MyApp extends StatelessWidget {
 }
 
 
-
-
-// implementation 'com.google.android.play:integrity:1.1.0'
-//     implementation 'com.google.firebase:firebase-appcheck-safetynet:16.1.2'
-//     implementation 'androidx.browser:browser:1.2.0' 

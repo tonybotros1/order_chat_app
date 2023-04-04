@@ -4,7 +4,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../models/chat_model.dart';
 import '../../screens/auth_screens/register_screen.dart';
-import '../../screens/auth_screens/register_screen.dart';
 import '../../screens/chat_screen/chat_screen.dart';
 
 class LoadingScreenController extends GetxController {
